@@ -3,9 +3,9 @@ README.md
 
 ## Deploying OpenShift Compliance Operator
 
-Install openshift-pipelines-operator using:
+Install openshift-compliance-operator using:
 ```
-$ oc apply --kustomize openshift-pipelines-operator/base
+$ oc apply --kustomize openshift-compliance-operator/base
 ```
 
 Verify that the operator is running:
